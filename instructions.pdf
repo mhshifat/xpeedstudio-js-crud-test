@@ -1,0 +1,4 @@
+01 . Clone the repository with `git clone --depth=1 https://github.com/mhshifat/xpeedstudio-js-crud-test.git`
+02. Enter into the project directory - `cd xpeedstudio-js-crud-test`
+03. Install the project dependencies - `npm install` or `yarn`
+04. Now start the project = `npm start` or `yarn start`
